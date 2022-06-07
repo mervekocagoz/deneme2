@@ -7,7 +7,12 @@
     <UserSecretsId>a50464bb-414c-4816-89cf-02c09c100bdb</UserSecretsId>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
+    <CodeAnalysisRuleSet>.sonarlint\local_denemecsharp.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
+
+  <ItemGroup>
+    <AdditionalFiles Include=".sonarlint\local_deneme\CSharp\SonarLint.xml" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.15.1" />

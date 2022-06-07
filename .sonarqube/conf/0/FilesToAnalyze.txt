@@ -1,0 +1,13 @@
+﻿C:\Users\merve.kocagoz\Desktop\Deneme\deneme\Controllers\WeatherForecastController.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\Program.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\WeatherForecast.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\obj\Debug\net6.0\deneme.GlobalUsings.g.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\obj\Debug\net6.0\deneme.AssemblyInfo.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\obj\Debug\net6.0\deneme.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\appsettings.Development.json
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\appsettings.json
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\.gitattributes
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\.gitignore
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\README.md
+C:\Users\merve.kocagoz\Desktop\Deneme\deneme\Properties\launchSettings.json

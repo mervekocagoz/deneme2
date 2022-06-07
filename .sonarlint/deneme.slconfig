@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://localhost:9000/",
+  "Organization": null,
+  "ProjectKey": "local_deneme",
+  "ProjectName": "local_deneme",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AYE9RpTuckpFJYY5Ju7N",
+      "ProfileTimestamp": "2022-06-07T08:27:24Z"
+    }
+  }
+}
