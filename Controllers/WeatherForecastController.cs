@@ -23,9 +23,10 @@ namespace deneme.Controllers
         {
             if (1 == 1)
             {
-
             }
-
+            if (1 == 2)
+            {
+            }
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
